@@ -1,5 +1,5 @@
 <?php
-    
+    // nueva sintaxis
 class ConexionDB{
 
 	static public function conectar(){

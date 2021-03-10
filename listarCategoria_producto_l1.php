@@ -8,6 +8,7 @@ echo "<th> Nombre </th>";
 echo "<th> Tipo Producto </th>";
 echo "<th> Accion </th>";
 echo "</tr>";
+
 if($resultado){
     foreach($resultado as $row => $item) {
         echo "<tr>";
